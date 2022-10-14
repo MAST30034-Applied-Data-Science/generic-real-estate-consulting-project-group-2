@@ -5,18 +5,18 @@
 
 **Timeline:** The timeline for the research area is current year for rental pricing and 2001-2021 for population forecasting.
 
-Visit the `scripts` directory to run the files 1-2, `model` directory for file 5, and `notebook` directory to run files 6-11 :
+Visit the `scripts` directory to run the files 1-2, `model` directory for file 5, and `notebook` directory to run all other files:
 1. `download.py`: This script is for downloading external dataset.
 2. `scrape.py`: This script is for data scraping.
 3. `Rental_Preprocessing.ipynb`: This notebook is for preprocessing the scraped rental data.
 4. `Preprocess.ipynb`: This notebook is to preprocess external datasets found.
 5. `Internal_External_Analysis.ipynb`: This notebook is to analyse the important features that contribute to price
-6. `geo_visualization.ipynb`: This notebook is for visualisation on the dataset.
-7. `population_forecast2.ipynb`: This notebook is for population forecasting.
-8. `postcode_population.ipynb`: This notebook is for postcode population forecasting.
-9. `Proximity_calculation.ipynb`: This notebook is for finding the proximity of amenities to rental properties
-10. `suburb_growth_rate_sort.ipynb`: This notebook is to find the top suburb grow rate.
-11. `Livability_Affordability.ipynb`: This notebook calculates the livability and affordability of various suburbs
+6. `population_forecast2.ipynb`: This notebook is for population forecasting.
+7. `postcode_population.ipynb`: This notebook is for postcode population forecasting.
+8. `Proximity_calculation.ipynb`: This notebook is for finding the proximity of amenities to rental properties
+9. `suburb_growth_rate_sort.ipynb`: This notebook is to find the top suburb grow rate.
+10. `Livability_Affordability.ipynb`: This notebook calculates the livability and affordability of various suburbs
+11. `Summary_Notebook.ipynb`: This notebook summarizes our approach, analysis and issues/ difficulties throughout the project
 
 Notes on directory `generic-real-estate-consulting-project-group-2/data/raw/`: Some datasets that could be downloaded through writing a script has been written in the `download.py` script. However, there are a few amount of datasets that can only be downloaded manually, these datasets are uploaded manually to the github repository. Some links have been attached down below for those datasets that are downloaded manually. 
 
