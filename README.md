@@ -1,5 +1,5 @@
 # Generic Real Estate Consulting Project
-- Group 2: Andy Ng(1170648), Yuhao Zhai(), Yun Keng Leong (1133704), Qianzhe Cheng ()
+- Group 2: Andy Ng(1170648), Yuhao Zhai(1067899), Yun Keng Leong (1133704), Qianzhe Cheng ()
 
 **Research Goal:** The research goal is to find the affecting properties on the rental prices for both residential properties and apartments throughout Victoria.
 
