@@ -33,5 +33,5 @@ Links to the external datasets that are downloaded manually:<br />
 `income_suburb`: https://data.gov.au/data/dataset/taxation-statistics-2019-20/resource/50bad443-39eb-4f60-bce5-d2978fc61e1b?inner_span=True <br />
 `hospital_data`: Folder of shapefiles for hospital locationscollected from qgis query for amenities:hospital <br /> `shopping_data`: Folder of shapefiles for shopping lcoations collected from qgis query for shops/food, shops/general, shops/convinence <br />
 `TRANSPORT`: Folder of shapefiles for train locations ordered from https://discover.data.vic.gov.au/dataset/victorian-railway-stations <br />
-`rental_zones`: folder of shapefiles ordered from: https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files <br />
-`locality`: folder of shapefiles ordered from: https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files
+`rental_zones`: Folder of shapefiles for boundaries ordered from: https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files <br />
+`locality`: Folder of shapefiles for suburb boundaries ordered from: https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files
