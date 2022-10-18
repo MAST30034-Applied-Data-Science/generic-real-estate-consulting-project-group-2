@@ -1,0 +1,61 @@
+﻿DATAFLOW,HIND: Total household income (weekly),HHCD: Household composition,REGION: Region,REGION_TYPE: Region Type,STATE: State,TIME_PERIOD: Time Period,OBS_VALUE
+ABS:C21_G33_SA2(1.0.0),"17: $4,000 or more",3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,93846
+ABS:C21_G33_SA2(1.0.0),6: $500-$649,3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,259347
+ABS:C21_G33_SA2(1.0.0),"15: $3,000-$3,499",_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,582333
+ABS:C21_G33_SA2(1.0.0),1: Negative/Nil income,1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,71343
+ABS:C21_G33_SA2(1.0.0),"12: $1,750-$1,999",1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,374670
+ABS:C21_G33_SA2(1.0.0),4: $300-$399,_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,202363
+ABS:C21_G33_SA2(1.0.0),7: $650-$799,_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,535302
+ABS:C21_G33_SA2(1.0.0),3: $150-$299,3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,82521
+ABS:C21_G33_SA2(1.0.0),"17: $4,000 or more",1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,1058778
+ABS:C21_G33_SA2(1.0.0),1: Negative/Nil income,3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,95101
+ABS:C21_G33_SA2(1.0.0),"15: $3,000-$3,499",1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,523915
+ABS:C21_G33_SA2(1.0.0),"10: $1,250-$1,499",_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,656141
+ABS:C21_G33_SA2(1.0.0),"12: $1,750-$1,999",_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,505348
+ABS:C21_G33_SA2(1.0.0),_N: All incomes not stated,3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,86874
+ABS:C21_G33_SA2(1.0.0),4: $300-$399,3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,168747
+ABS:C21_G33_SA2(1.0.0),"13: $2,000-$2,499",_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,1043721
+ABS:C21_G33_SA2(1.0.0),_T: Total,3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,2732570
+ABS:C21_G33_SA2(1.0.0),"17: $4,000 or more",_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,1152627
+ABS:C21_G33_SA2(1.0.0),6: $500-$649,1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,118319
+ABS:C21_G33_SA2(1.0.0),7: $650-$799,1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,358514
+ABS:C21_G33_SA2(1.0.0),"9: $1,000-$1,249",_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,636566
+ABS:C21_G33_SA2(1.0.0),18: Partial income stated,3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,51842
+ABS:C21_G33_SA2(1.0.0),18: Partial income stated,_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,480469
+ABS:C21_G33_SA2(1.0.0),"14: $2,500-$2,999",3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,33759
+ABS:C21_G33_SA2(1.0.0),2: $1-$149,1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,27184
+ABS:C21_G33_SA2(1.0.0),"11: $1,500-$1,749",1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,351821
+ABS:C21_G33_SA2(1.0.0),"9: $1,000-$1,249",3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,239892
+ABS:C21_G33_SA2(1.0.0),"16: $3,500-$3,999",1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,348953
+ABS:C21_G33_SA2(1.0.0),5: $400-$499,1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,104593
+ABS:C21_G33_SA2(1.0.0),"11: $1,500-$1,749",_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,517163
+ABS:C21_G33_SA2(1.0.0),_T: Total,_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,9275217
+ABS:C21_G33_SA2(1.0.0),8: $800-$999,_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,549447
+ABS:C21_G33_SA2(1.0.0),"13: $2,000-$2,499",3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,222654
+ABS:C21_G33_SA2(1.0.0),8: $800-$999,1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,327360
+ABS:C21_G33_SA2(1.0.0),"14: $2,500-$2,999",_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,662274
+ABS:C21_G33_SA2(1.0.0),5: $400-$499,3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,405808
+ABS:C21_G33_SA2(1.0.0),3: $150-$299,_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,111980
+ABS:C21_G33_SA2(1.0.0),_N: All incomes not stated,1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,74565
+ABS:C21_G33_SA2(1.0.0),"10: $1,250-$1,499",3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,191480
+ABS:C21_G33_SA2(1.0.0),"10: $1,250-$1,499",1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,464662
+ABS:C21_G33_SA2(1.0.0),8: $800-$999,3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,222085
+ABS:C21_G33_SA2(1.0.0),_N: All incomes not stated,_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,161440
+ABS:C21_G33_SA2(1.0.0),5: $400-$499,_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,510397
+ABS:C21_G33_SA2(1.0.0),3: $150-$299,1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,29458
+ABS:C21_G33_SA2(1.0.0),18: Partial income stated,1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,428627
+ABS:C21_G33_SA2(1.0.0),"15: $3,000-$3,499",3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,58418
+ABS:C21_G33_SA2(1.0.0),"11: $1,500-$1,749",3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,165338
+ABS:C21_G33_SA2(1.0.0),"12: $1,750-$1,999",3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,130683
+ABS:C21_G33_SA2(1.0.0),"16: $3,500-$3,999",_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,363701
+ABS:C21_G33_SA2(1.0.0),_T: Total,1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,6542648
+ABS:C21_G33_SA2(1.0.0),2: $1-$149,_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,59825
+ABS:C21_G33_SA2(1.0.0),"14: $2,500-$2,999",1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,628512
+ABS:C21_G33_SA2(1.0.0),1: Negative/Nil income,_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,166449
+ABS:C21_G33_SA2(1.0.0),"13: $2,000-$2,499",1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,821065
+ABS:C21_G33_SA2(1.0.0),7: $650-$799,3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,176796
+ABS:C21_G33_SA2(1.0.0),"9: $1,000-$1,249",1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,396677
+ABS:C21_G33_SA2(1.0.0),6: $500-$649,_T: Total,AUS: Australia,AUS: Australia,AUS: Australia,2021,377669
+ABS:C21_G33_SA2(1.0.0),4: $300-$399,1_2: Family households,AUS: Australia,AUS: Australia,AUS: Australia,2021,33610
+ABS:C21_G33_SA2(1.0.0),"16: $3,500-$3,999",3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,14746
+ABS:C21_G33_SA2(1.0.0),2: $1-$149,3: Non-family household,AUS: Australia,AUS: Australia,AUS: Australia,2021,32637
